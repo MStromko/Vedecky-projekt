@@ -6,7 +6,7 @@
 
 2. Kliknite na Červené tlačidlo
 
-![screenshot webside](tutorials/img/website_uvt.png)
+![screenshot webside](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/website_uvt.png)
 
 3. Kliknite na tlačítko **Sign in** na pravej strane stránky
 
