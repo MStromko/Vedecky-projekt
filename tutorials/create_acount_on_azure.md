@@ -6,7 +6,7 @@
 
 2. Kliknite na Červené tlačidlo
 
-![screenshot webside](:/img.webside_uvt.png)
+![screenshot webside](tutorials/img/website_uvt.png)
 
 3. Kliknite na tlačítko **Sign in** na pravej strane stránky
 
