@@ -10,7 +10,7 @@
 
 3. Kliknite na tlačítko **Sign in** na pravej strane stránky
 
-![screenshot webside](path":"/img/webide_sign_in.png)
+![screenshot webside](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/webide_sign_in.png)
 
 
 
