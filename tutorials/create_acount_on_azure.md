@@ -17,8 +17,20 @@
 ![screenshot login](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/login.png)
 
 5. Následne prebehne identifikácia a bude od Vás požadované vyplnenie telefónneho čísla.
-OBR.
+
+![screenshot phone number](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/phone%20number.png)
 
 6. Následnete kliknite na Tlačítko **text me**
+7. Ako ďalší krok napíšte indentifikačný kód z SMS do poľa. **Vericiation code** a po vyplnení kliknite na tlačidlo **Verification**
+![screenshot verification](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/Verifi%20code.png)
 
+8. Ďalej súhlaste s obchodným podmienkami a kliknite na tlačidlo **accept terms**
+![screenshot GDPR](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/Accept%20terms.png)
+
+9. Následne kliknite na **Activate offer**, ktorý sa nachádza v bloku _Redim student credits_
+![screenshot activeoffer](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/activation%20azure.png)
+
+10. Ďalej vyplnte svoje osobné údaje _Name_ a _Last name, email address, telefónne číslo, a študenské ID (MAIS)_. Nezabudnite zaškrtnúť políčko osobné údaje. A kliknite na **Sign up**
+
+![write a personal data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/sing%20up.png)
 
