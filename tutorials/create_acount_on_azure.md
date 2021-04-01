@@ -16,7 +16,6 @@
 
 ![screenshot login](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/login.png)
 
-
-
+5. Následne prebehne identifikácia a budete prihlásený do Azure Portálu
 
 
