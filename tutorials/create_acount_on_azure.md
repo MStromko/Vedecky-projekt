@@ -10,7 +10,11 @@
 
 3. Kliknite na tlačítko **Sign in** na pravej strane stránky
 
-![screenshot webside](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/webide_sign_in.png)
+![screenshot sign in](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/webide_sign_in.png)
+
+4. Následne sa prihláste pomocou školských prihlasovacích údajov.
+
+![screenshot login](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/login.png)
 
 
 
