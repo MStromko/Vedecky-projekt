@@ -34,3 +34,5 @@
 
 ![write a personal data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/sing%20up.png)
 
+**AK SI ZVLÁDOL DÔJSŤ PO TENTO KROK TAK BY TI TO MALO FUNGOVAŤ**
+
