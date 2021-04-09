@@ -5,4 +5,7 @@
 
 ![Input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/creat_input_data.png)
 
-3. sdff
+3. V treťom kroku zvolte v **Data Source** možnosť _Samples_ a nižšie kliknite na možnosť **hotel-samples**, tieto nastavenie potvrdte nižšie kliknutím na 
+**Next: Add cognitive skills (Optional)**
+
+![Setting input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/setting_input_data.png)
