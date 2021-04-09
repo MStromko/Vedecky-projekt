@@ -54,3 +54,26 @@
 - Príklad hľadania
 
 ![Search command](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/search_command.png)
+
+**Skúste vyskúšať nasledujúce príkazy**
+
+      search=spa&$count=true&$top=10
+      
+      
+      search=beach&$filter=Rating gt 4
+      
+      
+      search=*&facet=Category&$top=2
+      
+      
+      search=beach&highlight=Description
+      
+      
+      search=seatle
+      
+      
+      search=seatle~&queryType=full
+      
+      
+      search=*&$count=true&$filter=geo.distance(Location,geography'POINT(-122.12 47.67)') le 5
+
