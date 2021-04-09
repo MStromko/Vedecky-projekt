@@ -1,5 +1,8 @@
 # AKO VYTVORIŤ INDEX POMOCOU AZURE COGNITIVE SEARCH
 
+
+## Prvá časť: Pridanie dát
+
 1. Na portály Microsoft Azure si nájdite Aplikáciu Azure Congnitive Search ktorú chcete zaindexovať a kliknite na ňu. 
 2. Na hornej lište v nájdite možnosť **Import data** a kliknite na toto tlačidlo. Týmto krokom začína vytváranie indexu
 
@@ -26,3 +29,12 @@
 7. Ak všetko prebehlo správne, tak sa Vám objaví takáto notifikácia
 
 ![notification](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/notification_2.png)
+
+8. Refresnite aplikáciu 
+
+
+## Druhá časť:
+
+1. Kliknite na **Indexes**
+
+![Indexes](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/indexes.png)
