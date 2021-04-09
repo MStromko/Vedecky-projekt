@@ -33,7 +33,7 @@
 8. Refresnite aplikáciu 
 
 
-## Druhá časť:
+## Druhá časť: Kontrola
 
 1. Kliknite na **Indexes**
 
@@ -42,3 +42,15 @@
 - pokilaľ všetko prebehlo vporiadku, malo by to vzerať takto
 
 ![Control](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/control.png)
+
+
+## Tretia časť: Skúška vyhľadávania
+
+1. Na hornom bare kliknite na **Search explorer**
+
+![Search explorer](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/search_explorer.png)
+
+2. Do poľa **Query string** skúste postupne napsať dané príkazy. Po správnom zadaní príkazu sa Vám zobrazia hodnoty hľadania
+- Príklad hľadania
+
+![Search command](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/search_command.png)
