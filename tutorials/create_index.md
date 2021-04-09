@@ -2,4 +2,7 @@
 
 1. Na portály Microsoft Azure si nájdite Aplikáciu Azure Congnitive Search ktorú chcete zaindexovať a kliknite na ňu. 
 2. Na hornej lište v nájdite možnosť **Import data** a kliknite na toto tlačidlo. Týmto krokom začína vytváranie indexu
-3. 
+
+![Input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/creat_input_data.png)
+
+3. sdff
