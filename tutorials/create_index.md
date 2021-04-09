@@ -8,5 +8,5 @@
 3. V treťom kroku zvolte v **Data Source** možnosť _Samples_ a nižšie kliknite na možnosť **hotel-samples**, tieto nastavenie potvrdte nižšie kliknutím na 
 **Next: Add cognitive skills (Optional)**
 
-![Setting input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/setting_input_data.png)
+![Setting input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/settong_input_data.png)
 ![Cognitive skills](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/cognitive_skills.png)
