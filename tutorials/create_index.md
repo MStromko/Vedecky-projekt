@@ -10,3 +10,7 @@
 
 ![Setting input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/settong_input_data.png)
 ![Cognitive skills](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/cognitive_skills.png)
+
+4. Následne kliknite na **Skip to: Customize target index**
+
+![Skip targetnindex](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/skip_target_index.png)
