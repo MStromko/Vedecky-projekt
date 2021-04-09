@@ -9,3 +9,4 @@
 **Next: Add cognitive skills (Optional)**
 
 ![Setting input data](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/setting_input_data.png)
+![Cognitive skills](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/cognitive_skills.png)
