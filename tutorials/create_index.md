@@ -14,3 +14,6 @@
 4. Následne kliknite na **Skip to: Customize target index**
 
 ![Skip targetnindex](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/skip_target_index.png)
+
+5. V ďalšom kroku kliknite na **Next: create an indexer**
+![Create an idexer](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/create_an_indexer.png)
