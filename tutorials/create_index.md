@@ -25,4 +25,4 @@
 
 7. Ak všetko prebehlo správne, tak sa Vám objaví takáto notifikácia
 
-![notification](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/notification2.png)
+![notification](https://github.com/michal552703/Vedecky-projekt/blob/main/tutorials/img/notification_2.png)
