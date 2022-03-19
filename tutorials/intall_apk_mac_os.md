@@ -21,6 +21,9 @@
       
         arch -arm64 brew install git
     
-    
-    
-    
+ ## Nové info o používaní flask a docker na procesore M1 
+ - apple spušťa aplikáciu AIR DROP na porte číslo 5000 v počítači to beží na localhoste čo pri spôšťaní flask APK robí problémy hlavne v kombinácii s dockerom
+ - riešenie je jednoduché:
+    - treba ísť do nastavení a vypnút zdielanie AIR play príjímač 
+    - cesta: SETTINGS->SHARE->odskrtnúť poslednú položku AIR play prijímač
+    - stránka z ktorej som čerpal: [WEBSIDE](https://progressstory.com/tech/port-5000-already-in-use-macos-monterey-issue/)  
